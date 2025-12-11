@@ -1,0 +1,2 @@
+# Handling-Imbalanced-Classification-Using-Sampling-Techniques-Machine-Learning
+This project demonstrates how to handle imbalanced datasets using under sampling and oversampling techniques, followed by training machine learning models and evaluating them using F1-score and AUC-ROC score.  The goal is to compare how different sampling strategies improve classification performance on highly imbalanced data.
