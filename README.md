@@ -82,7 +82,7 @@ Decision Tree
 Evaluated with same metrics:
 
 F1-score,AUC
-# SAMPLING TECHNIQUE COMPARISION
+# ⭐SAMPLING TECHNIQUE COMPARISION
 
 | Sampling Technique                            | Advantages                                                                           | Disadvantages                                                                   | Model Performance Impact                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -95,3 +95,12 @@ F1-score,AUC
 
 -SMOTE + Logistic Regression / Decision Tree usually gives the best balanced performance.
 -Cluster Centroids is useful but SMOTE performed better overall.
+
+# ⭐ TECHNOLOGIES USED 
+
+| Category      | Tools                          |
+| ------------- | ------------------------------ |
+| Programming   | Python                         |
+| ML Libraries  | Scikit-learn, Imbalanced-learn |
+| Data          | Pandas, NumPy                  |
+| Visualization | Matplotlib, Seaborn            |
